@@ -1,0 +1,5 @@
+{
+  "name": "Vasudha GeotechCalc",
+  "description": "A professional-grade engineering tool for calculating foundation bearing capacity and settlement as per IS 6403:1981 and IS 1904:2021 standards, featuring real-time sensitivity analysis and visual structural diagrams.",
+  "requestFramePermissions": []
+}
